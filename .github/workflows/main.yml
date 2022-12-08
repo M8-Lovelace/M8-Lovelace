@@ -1,0 +1,26 @@
+on:
+  schedule:
+    - cron: '0 */5* * *' # run every 5 hours
+  push:
+    branches:
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v1
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name M8-Lovelace
+        git config user.email lauritasusano.10@gmail.com
+        git add .
+        git commit -m "chore: update readme with github actions"
+        git push
+        fi
