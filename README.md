@@ -1,10 +1,10 @@
 Howdy, I'm Laura Susano from Colombia.
 
-I pushed **129** commits, opened **0** issues, submitted **0** pull requests, received **8** stars across **15** personal projects and contributed to **0** public repositories.
+I pushed **132** commits, opened **0** issues, submitted **0** pull requests, received **8** stars across **16** personal projects and contributed to **0** public repositories.
 
 Most used languages across my projects:
 
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B181.7%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B181.6%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B110.9%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B13%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12.1%25)
