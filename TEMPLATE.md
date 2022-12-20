@@ -1,6 +1,6 @@
-Howdy, I'm Laura Susano from Colombia.
+Howdy, I'm Laura Susano from Colombia. Student of Software Analysis and Development.
 
-I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
 
 Most used languages across my projects:
 
