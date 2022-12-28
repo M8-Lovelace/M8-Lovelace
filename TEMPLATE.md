@@ -1,4 +1,5 @@
-Howdy, I'm Laura Susano from Colombia. Student of Software Analysis and Development.
+# Laura Susano - Software Developer
+Howdy, I'm from Colombia. Student of Software Analysis and Development.
 
 I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
 
