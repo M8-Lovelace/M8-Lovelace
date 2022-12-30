@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 */6 * * *' # run every 5 hours
+    - cron: '0 */14 * * *' # run every 14 hours
   push:
     branches:
       - main
