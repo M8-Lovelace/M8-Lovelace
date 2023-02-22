@@ -1,4 +1,4 @@
-<img align="left" width="100px" style="padding-right: 20px" src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
+<img align="left" width="100px" style="padding-right: 20px"  src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
 
 ### Hey!
 
