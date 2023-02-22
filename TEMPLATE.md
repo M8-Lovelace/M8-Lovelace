@@ -1,10 +1,22 @@
-# Laura Susano - Software Developer
-Howdy, I'm from Colombia. Student of Software Analysis and Development.
+<img align="left" width="100px" style="padding-right: 20px" src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
 
-I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
+### Hey!
 
-Most used languages across my projects:
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+![Lovelace](https://img.shields.io/badge/M8--Lovelace-%C2%A1Howdy!-lightgrey)
+![GitHub](https://shields.io/github/followers/M8-Lovelace?label=Follow)
+
+
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
+
+I mostly learn **Angular** these days. See my _pinned repositories_ below.
+
+Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
+
+- [TypeScript](https://github.com/M8-Lovelace/Notes/tree/main/TypeScript) - Some notes about TypeScript with some examples.
+- [JavaScript](https://github.com/M8-Lovelace/Notes/tree/main/JavaScript) - Topics about JavaScript like array methods, async/await, etc.
+- [Java](https://github.com/M8-Lovelace/Java) - This is my Java path!
+- [Angular](https://github.com/M8-Lovelace/Angular) - This is my Angular path!
+
+**~** [_lau.codes_](https://lau.codes/)
