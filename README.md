@@ -1,4 +1,4 @@
-<img align="left" width="100px" style="padding-right: 20px"  src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
+<img align="left" width="100px" style="padding-right: 20px"  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 
 ### Hey!
 
@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 ![GitHub](https://shields.io/github/followers/M8-Lovelace?label=Follow)
 
 
-Ever since I joined GitHub **1** years ago, I pushed **410** commits, submitted **2** pull requests, received **36** stars across **16** personal projects.
+Ever since I joined GitHub **1** years ago, I pushed **412** commits, submitted **2** pull requests, received **36** stars across **16** personal projects.
 
 I mostly learn **Angular** these days. See my _pinned repositories_ below.
 
