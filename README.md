@@ -1,15 +1,22 @@
-# Laura Susano - Software Developer
-Howdy, I'm from Colombia. Student of Software Analysis and Development.
+<img align="left" width="100px" style="padding-right: 20px" src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png">
 
-I pushed **404** commits, received **36** stars across **16** personal projects.
+### Hey!
 
-Most used languages across my projects:
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B181.5%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B17.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.1%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12.2%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B11.4%25)
-![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B11%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
+![Lovelace](https://img.shields.io/badge/M8--Lovelace-%C2%A1Howdy!-lightgrey)
+![GitHub](https://shields.io/github/followers/M8-Lovelace?label=Follow)
+
+
+Ever since I joined GitHub **1** years ago, I pushed **406** commits, submitted **2** pull requests, received **36** stars across **16** personal projects.
+
+I mostly learn **Angular** these days. See my _pinned repositories_ below.
+
+Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
+
+- [TypeScript](https://github.com/M8-Lovelace/Notes/tree/main/TypeScript) - Some notes about TypeScript with some examples.
+- [JavaScript](https://github.com/M8-Lovelace/Notes/tree/main/JavaScript) - Topics about JavaScript like array methods, async/await, etc.
+- [Java](https://github.com/M8-Lovelace/Java) - This is my Java path!
+- [Angular](https://github.com/M8-Lovelace/Angular) - This is my Angular path!
+
+**~** [_lau.codes_](https://lau.codes/)
