@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 ![GitHub](https://shields.io/github/followers/M8-Lovelace?label=Follow)
 
 
-Ever since I joined GitHub **1** years ago, I pushed **451** commits, submitted **2** pull requests, received **37** stars across **16** personal projects.
+Ever since I joined GitHub **1** years ago, I pushed **431** commits, submitted **2** pull requests, received **35** stars across **17** personal projects.
 
 I mostly learn **Angular** these days. See my _pinned repositories_ below.
 
@@ -16,7 +16,7 @@ Also, here are a few interesting **projects** (written in **TypeScript**, **Java
 
 - [TypeScript](https://github.com/M8-Lovelace/Notes/tree/main/TypeScript) - Some notes about TypeScript with some examples.
 - [JavaScript](https://github.com/M8-Lovelace/Notes/tree/main/JavaScript) - Topics about JavaScript like array methods, async/await, etc.
-- [Java](https://github.com/M8-Lovelace/Java) - This is my Java path!
 - [Angular](https://github.com/M8-Lovelace/Angular) - This is my Angular path!
+- [Notes](https://github.com/M8-Lovelace/Notes) - These are my notes on some technologies.
 
 **~** [_lau.codes_](https://lau.codes/)
