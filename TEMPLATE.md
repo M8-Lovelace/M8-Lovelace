@@ -16,7 +16,7 @@ Also, here are a few interesting **projects** (written in **TypeScript**, **Java
 
 - [TypeScript](https://github.com/M8-Lovelace/Notes/tree/main/TypeScript) - Some notes about TypeScript with some examples.
 - [JavaScript](https://github.com/M8-Lovelace/Notes/tree/main/JavaScript) - Topics about JavaScript like array methods, async/await, etc.
-- [Java](https://github.com/M8-Lovelace/Java) - This is my Java path!
 - [Angular](https://github.com/M8-Lovelace/Angular) - This is my Angular path!
+- [Notes](https://github.com/M8-Lovelace/Notes) - These are my notes on some technologies.
 
 **~** [_lau.codes_](https://lau.codes/)
