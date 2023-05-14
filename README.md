@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 ![GitHub](https://shields.io/github/followers/M8-Lovelace?label=Follow)
 
 
-Ever since I joined GitHub **1** years ago, I pushed **597** commits, submitted **32** pull requests, received **42** stars across **19** personal projects.
+Ever since I joined GitHub **1** years ago, I pushed **598** commits, submitted **32** pull requests, received **42** stars across **19** personal projects.
 
 I mostly write **JS** these days. See my _pinned repositories_ below.
 
